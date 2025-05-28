@@ -23,11 +23,12 @@ The rewind system is backed by a custom **linked list** data structure that dyna
 - Fine-grained memory management for long recording windows
 
 
+## 📸 Demo
 
-<img src="Resources/exemple.gif" width="600"/>
+<img src="Resources\example.gif" width="600"/>
 
 ## 🛠 How to Use
 
 Add the rewind component to the actors and use:
 
-![Blueprint](Resources/screenshot.png)
+<img src="Resources/screenshot.png" width="600"/>
