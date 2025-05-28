@@ -22,7 +22,12 @@ The rewind system is backed by a custom **linked list** data structure that dyna
 - Efficient traversal during rewind playback
 - Fine-grained memory management for long recording windows
 
+
+
 ![Time Rewind Example](Resources/exemple.gif)
 
+## 🛠 How to Use
 
-How to use: Add the rewind component to the actors and use: ![Blueprint](Resources/screenshot.png)
+Add the rewind component to the actors and use:
+
+![Blueprint](Resources/screenshot.png)
